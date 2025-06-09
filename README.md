@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+CAP Economics maintains its publicly accessible software on github. 
 
 <!--
 **capeconomics/capeconomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
